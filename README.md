@@ -1,6 +1,8 @@
 # Lavender List
 A simple and responsive todo list built with React, featuring a purple-themed design.
 
+
+
 # Features
 
 — Add new tasks
@@ -10,8 +12,11 @@ A simple and responsive todo list built with React, featuring a purple-themed de
 — Delete tasks
 
 
+
 # Live Demo
 [ Try Lavender List here!](https://lavender-list.vercel.app/)
+
+
 
 # Technologies Used
 **React** - Frontend framework
@@ -19,6 +24,8 @@ A simple and responsive todo list built with React, featuring a purple-themed de
 **CSS** - Styling
 
 **Vite** - Build tool
+
+
 
 # Project Structure
 ├── index.html       —— HTML template
@@ -34,6 +41,8 @@ A simple and responsive todo list built with React, featuring a purple-themed de
 │   └── main.jsx     —— Entry point
 
 └── package.json     —— Dependencies and scripts
+
+
 
 # Components
 
