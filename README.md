@@ -14,11 +14,11 @@ A simple and responsive todo list built with React, featuring a purple-themed de
 [ Try Lavender List here!](https://lavender-list.vercel.app/)
 
 # Technologies Used
-React - Frontend framework
+**React** - Frontend framework
 
-CSS - Styling
+**CSS** - Styling
 
-Vite - Build tool
+**Vite** - Build tool
 
 # Project Structure
 ├── index.html       —— HTML template
@@ -37,9 +37,9 @@ Vite - Build tool
 
 # Components
 
-App.jsx - The main application component that compiles the title and TodoList component.
+**App.jsx** - The main application component that compiles the title and TodoList component.
 
-TodoList.jsx - Core functionality component that handles:
+**TodoList.jsx** - Core functionality component that handles:
 
 — useState management for todos and input
 
