@@ -2,9 +2,13 @@
 A simple and responsive todo list built with React, featuring a purple-themed design.
 
 # Features
+
 — Add new tasks
+
 — Mark tasks as complete
+
 — Delete tasks
+
 
 # Live Demo
 [ Try Lavender List here!](https://lavender-list.vercel.app/)
